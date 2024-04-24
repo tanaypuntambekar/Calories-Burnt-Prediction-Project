@@ -6,4 +6,4 @@
 - Machine Learning Algorithms used :
   Linear Regression, Random Forest Regression, Gradient Boosting Regression
 - Deployment :
-  Created a simple Graphical user interface that takes Gender, Age, Height, Weight, Body tempreture, Heart rate as input and provides calories burnt as output. 
+  Created a simple Graphical user interface that takes Gender, Age, Height, Weight, Body temperature, Heart rate as input and provides calories burnt as output. 
